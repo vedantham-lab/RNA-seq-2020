@@ -28,7 +28,7 @@ I prefer uploading the files straight from terminal, since working in terminal m
 * **Clone** or download the repository using the following command `git clone https://github.com/vedantham-lab/RNA-seq-2020.git`. This command will create a new folder in whatever directory you are currently in in terminal, so make sure you are `cd`'d into the directory you want the folder to be inside of.
 * Move or create code inside one of the appropriate folders of the repo
 * **Add** your new files. You can add all the files at once with `git add -A` or add each individual file with `git add file1.txt file2.txt`. This tells git that these are files it should monitor for changes.
-* **Commit** your files. This will tell git that these are files you want to upload. `git commit -m "write a short description here of your files!`"
+* **Commit** your files. This will tell git that these are files you want to upload. `git commit -m "write a short description here of your files!"`
 * **Push** your files. This will upload your files straight to github so everyone else can view it. `git push origin master`
 
 And to download new files from the repo
